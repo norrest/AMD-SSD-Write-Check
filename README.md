@@ -1,1 +1,0 @@
-# AMD-SSD-Write-Check
